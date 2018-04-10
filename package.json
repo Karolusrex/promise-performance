@@ -1,0 +1,25 @@
+{
+  "name": "promise-performance",
+  "version": "1.0.0",
+  "description": "A simple tool for profiling the performance of Promises in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karolusrex/promise-performance.git"
+  },
+  "keywords": [
+    "promise",
+    "es6",
+    "babel",
+    "profiling"
+  ],
+  "author": "okcomputer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karolusrex/promise-performance/issues"
+  },
+  "homepage": "https://github.com/Karolusrex/promise-performance#readme"
+}
